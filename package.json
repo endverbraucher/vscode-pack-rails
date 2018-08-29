@@ -2,7 +2,7 @@
     "name": "pack-rails",
     "displayName": "Ruby and Rails Extension Pack",
     "description": "Basic extension which are used for ruby and rails development",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "endverbraucher",
     "engines": {
         "vscode": "^1.26.0"
@@ -12,7 +12,7 @@
     ],
     "icon": "icon.png",
     "repository": {
-      "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
+        "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
     },
     "extensionPack": [
         "bung87.rails",
