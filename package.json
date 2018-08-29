@@ -11,6 +11,9 @@
         "Extension Packs"
     ],
     "icon": "icon.png",
+    "repository": {
+      "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
+    },
     "extensionPack": [
         "bung87.rails",
         "bung87.vscode-gemfile",
