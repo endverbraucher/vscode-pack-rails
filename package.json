@@ -22,6 +22,10 @@
         "rebornix.ruby",
         "vayan.haml",
         "vortizhe.simple-ruby-erb",
-        "shanehofstetter.rails-i18n"
+        "shanehofstetter.rails-i18n",
+        "karunamurti.haml",
+        "gizmos.docs-yaml",
+        "karunamurti.rspec-snippets",
+        "noku.rails-run-spec-vscode"
     ]
 }
