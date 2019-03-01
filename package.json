@@ -1,31 +1,30 @@
 {
-    "name": "pack-rails",
-    "displayName": "Ruby and Rails Extension Pack",
-    "description": "Basic extension which are used for ruby and rails development",
-    "version": "1.2.0",
-    "publisher": "endverbraucher",
-    "engines": {
-        "vscode": "^1.26.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "icon": "icon.png",
-    "repository": {
-        "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
-    },
-    "extensionPack": [
-        "bung87.rails",
-        "bung87.vscode-gemfile",
-        "miguel-savignano.ruby-symbols",
-        "misogi.ruby-rubocop",
-        "rebornix.ruby",
-        "vayan.haml",
-        "vortizhe.simple-ruby-erb",
-        "shanehofstetter.rails-i18n",
-        "karunamurti.haml",
-        "gizmos.docs-yaml",
-        "karunamurti.rspec-snippets",
-        "noku.rails-run-spec-vscode"
-    ]
+  "name": "pack-rails",
+  "displayName": "Ruby and Rails Extension Pack",
+  "description": "Basic extension which are used for ruby and rails development",
+  "version": "1.2.0",
+  "publisher": "endverbraucher",
+  "engines": {
+    "vscode": "^1.26.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
+  },
+  "extensionPack": [
+    "bung87.rails",
+    "bung87.vscode-gemfile",
+    "miguel-savignano.ruby-symbols",
+    "rebornix.ruby",
+    "vayan.haml",
+    "vortizhe.simple-ruby-erb",
+    "shanehofstetter.rails-i18n",
+    "karunamurti.haml",
+    "gizmos.docs-yaml",
+    "karunamurti.rspec-snippets",
+    "noku.rails-run-spec-vscode"
+  ]
 }
