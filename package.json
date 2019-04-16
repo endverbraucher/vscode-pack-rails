@@ -15,7 +15,6 @@
     "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
   },
   "extensionPack": [
-    "bung87.rails",
     "bung87.vscode-gemfile",
     "miguel-savignano.ruby-symbols",
     "rebornix.ruby",
@@ -25,6 +24,8 @@
     "karunamurti.haml",
     "gizmos.docs-yaml",
     "karunamurti.rspec-snippets",
-    "noku.rails-run-spec-vscode"
+    "noku.rails-run-spec-vscode",
+    "aliariff.auto-add-brackets",
+    "kaiwood.endwise"
   ]
 }

@@ -15,3 +15,5 @@ This extension pack contains all the extensions I use for development of Ruby or
 * [docs-yaml](https://marketplace.visualstudio.com/items?itemName=gizmos.docs-yaml)
 * [rspec-snippets](https://marketplace.visualstudio.com/items?itemName=karunamurti.rspec-snippets)
 * [rails-run-spec-vscode](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
+* [Auto Add Brackets in String Interpolation](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets)
+* [Endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
