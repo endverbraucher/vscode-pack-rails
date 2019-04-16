@@ -3,6 +3,16 @@ All notable changes to the "pack-common" extension pack will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0] - 2019-04-16
+- remove rufo extension (We use single quotes!)
+- remove rails extension by bung87 (I don't like that this extension comes with solargraph.)
+- remove rubocop extension (The ruby language extension also lints with rubocop. See settings.)
+- add endvise extenstion
+- add "Auto Add Brackets in String Interpolation" Extension
+
+## [1.2.0] - 2019-03-01
+- add rufo extension
+
 ## [1.1.0] - 2019-02-14
 - add new extensions for haml, yaml and rspec support
 - update readme
