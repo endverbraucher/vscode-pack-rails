@@ -12,7 +12,7 @@ This extension pack contains all the extensions I use for development of Ruby or
 * [simple-ruby-erb](https://marketplace.visualstudio.com/items?itemName=vortizhe.simple-ruby-erb)
 * [rails-i18n](https://marketplace.visualstudio.com/items?itemName=shanehofstetter.rails-i18n)
 * [haml](https://marketplace.visualstudio.com/items?itemName=karunamurti.haml)
-* [docs-yaml](https://marketplace.visualstudio.com/items?itemName=gizmos.docs-yaml)
+* [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)
 * [rspec-snippets](https://marketplace.visualstudio.com/items?itemName=karunamurti.rspec-snippets)
 * [rails-run-spec-vscode](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
 * [Auto Add Brackets in String Interpolation](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets)
