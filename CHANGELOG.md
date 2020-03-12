@@ -1,7 +1,16 @@
 # Change Log
 All notable changes to the "pack-common" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this
+file.
+
+## [1.4.0] - 2020-03-12
+- replace "karunamurti.rspec-snippets" with "ldrner.rspec-snippets-vscode" (looks and feels more
+  up to date)
+- add aki77.rails-routes
+- add ninoseki.vscode-gem-lens
+- add pascalreitermann93.vscode-yaml-sort
+- replace "shanehofstetter.rails-i18n" with the more useful "antfu.i18n-ally"
 
 ## [1.3.0] - 2019-04-16
 - remove rufo extension (We use single quotes!)

@@ -19,13 +19,21 @@
     "miguel-savignano.ruby-symbols",
     "rebornix.ruby",
     "vayan.haml",
-    "vortizhe.simple-ruby-erb",
-    "shanehofstetter.rails-i18n",
+    "antfu.i18n-ally",
     "karunamurti.haml",
     "docsmsft.docs-yaml",
-    "karunamurti.rspec-snippets",
     "noku.rails-run-spec-vscode",
     "aliariff.auto-add-brackets",
-    "kaiwood.endwise"
+    "kaiwood.endwise",
+    "aki77.rails-db-schema",
+    "aki77.haml-lint",
+    "cjay.ruby-and-rails-snippets",
+    "sporto.rails-go-to-spec",
+    "aki77.rails-routes",
+    "ldrner.rspec-snippets-vscode",
+    "ninoseki.vscode-gem-lens",
+    "mikestead.dotenv",
+    "pascalreitermann93.vscode-yaml-sort
+"
   ]
 }
