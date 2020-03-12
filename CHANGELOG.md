@@ -12,6 +12,8 @@ file.
 - add pascalreitermann93.vscode-yaml-sort
 - replace "shanehofstetter.rails-i18n" with the more useful "antfu.i18n-ally"
 
+*Note:* To use the new i18n Ally extension you need to enable rails in your settings.json with `"i18n-ally.enabledFrameworks": ["ruby-rails"]`
+
 ## [1.3.0] - 2019-04-16
 - remove rufo extension (We use single quotes!)
 - remove rails extension by bung87 (I don't like that this extension comes with solargraph.)

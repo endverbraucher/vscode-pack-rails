@@ -5,6 +5,8 @@ Ruby and RubyOnRails based applications!
 
 ## Extensions included
 
+*Note:* To use the new i18n Ally extension you need to enable rails in your settings.json with `"i18n-ally.enabledFrameworks": ["ruby-rails"]`
+
 - [Auto Add Brackets in String Interpolation](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets)
 - [docs-yaml](https://marketplace.visualstudio.com/items?itemName=docsmsft.docs-yaml)
 - [Endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
