@@ -2,7 +2,7 @@
 
 <div align="center"><img src="hero.png" width=40%></div>
 
-19 carefully selected extensions that I use to develop Ruby and Ruby on Rails applications.
+23 carefully selected extensions and little helper that I use to develop Ruby and Ruby on Rails applications.
 
 
 ## Highlights
@@ -16,17 +16,17 @@
 #### [Quick Open Rails](https://marketplace.visualstudio.com/items?itemName=aki77.quick-open-rails) — helps you to search for you rails stuff. You need to configure a shortcut!
 <div align="center"><img src="screenshots/quick_open_rails.gif" width="75%"></div>
 
-#### [I18N Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) — Super Charges your work with translations.
-**Hint**: To use the i18n Ally extension you may need to enable rails in your settings.json with `"i18n-ally.enabledFrameworks": ["ruby-rails"]`
-<div align="center"><img src="screenshots/i18n_ally.gif" width="85%"></div>
-
 #### [Gem Lens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-gem-lens) — See additional informations for the gems in your Gemfile.
 <div align="center"><img src="screenshots/gemlens.png" width="75%"></div>
 
 #### [Auto Add Brackets](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets) — Interpolate Strings with ease!
 <div align="center"><img src="screenshots/auto_add_brackets.gif" width="75%"></div>
 
-## Additional Extensions
+#### [I18N Ally](https://marketplace.visualstudio.com/items?itemName=lokalise.i18n-ally) — Super Charges your work with translations.
+**Hint**: To use the i18n Ally extension you may need to enable rails in your settings.json with `"i18n-ally.enabledFrameworks": ["ruby-rails"]`
+<div align="center"><img src="screenshots/i18n_ally.gif" width="85%"></div>
+
+## Complete Overview
 
 ### Common Stuff
 - [auto-add-brackets](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets)
@@ -61,6 +61,9 @@
 - [rails-run-spec-vscode](https://marketplace.visualstudio.com/items?itemName=noku.rails-run-spec-vscode)
 - [rspec-snippets-vscode](https://marketplace.visualstudio.com/items?itemName=ldrner.rspec-snippets-vscode)
 
-#### Icons
+
+## Credits
+Special thanks to all extension authors who help me to be more productive!
+
 - [Ruby Hero](https://icons8.com/icon/64516/ruby-programming-language) icon by [Icons8](https://icons8.com)
 - [Ruby Icon](https://icons8.com/icon/3bzw1uhK78yO/ruby-programming-language) icon by [Icons8](https://icons8.com)
