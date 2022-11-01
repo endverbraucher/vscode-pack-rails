@@ -11,6 +11,7 @@ file.
 - add ZneuRay.erb-vscode-snippets
 - add aki77.rails-partial
 - add aki77.rails-view-component
+- add elliotlarson.ruby-around-the-block
 - remove bung87.vscode-gemfile (already using a better replacement)
 - remove vayan.haml (already using a better replacement)
 - update readme

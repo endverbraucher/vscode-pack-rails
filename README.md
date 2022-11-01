@@ -40,6 +40,7 @@
 - [ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.ruby)
 - [ruby-symbols](https://marketplace.visualstudio.com/items?itemName=miguel-savignano.ruby-symbols)
 - [vscode-gem-lens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-gem-lens)
+- [ruby-around-the-block](https://marketplace.visualstudio.com/items?itemName=elliotlarson.ruby-around-the-block)
 
 ### Rails
 - [ruby-and-rails-snippets](https://marketplace.visualstudio.com/items?itemName=cjay.ruby-and-rails-snippets)
