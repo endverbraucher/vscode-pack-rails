@@ -15,11 +15,9 @@
     "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
   },
   "extensionPack": [
-    "bung87.vscode-gemfile",
     "miguel-savignano.ruby-symbols",
     "rebornix.ruby",
-    "vayan.haml",
-    "antfu.i18n-ally",
+    "lokalise.i18n-ally",
     "karunamurti.haml",
     "docsmsft.docs-yaml",
     "noku.rails-run-spec-vscode",
@@ -33,6 +31,12 @@
     "ldrner.rspec-snippets-vscode",
     "ninoseki.vscode-gem-lens",
     "mikestead.dotenv",
-    "pascalreitermann93.vscode-yaml-sort"
+    "pascalreitermann93.vscode-yaml-sort",
+    "jemmyw.rails-fast-nav",
+    "craigmaslowski.erb",
+    "ZneuRay.erb-vscode-snippets",
+    "aki77.rails-partial",
+    "aki77.rails-view-component",
+    "aki77.quick-open-rails"
   ]
 }
