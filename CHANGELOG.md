@@ -4,6 +4,17 @@ All notable changes to the "pack-common" extension pack will be documented in th
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this
 file.
 
+## [1.5.0] - 2022-10-15
+- update I18n Alley
+- add jemmyw.rails-fast-nav
+- add craigmaslowski.erb
+- add ZneuRay.erb-vscode-snippets
+- add aki77.rails-partial
+- add aki77.rails-view-component
+- remove bung87.vscode-gemfile (already using a better replacement)
+- remove vayan.haml (already using a better replacement)
+- update readme
+
 ## [1.4.0] - 2020-03-12
 - replace "karunamurti.rspec-snippets" with "ldrner.rspec-snippets-vscode" (looks and feels more
   up to date)
