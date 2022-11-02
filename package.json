@@ -1,7 +1,7 @@
 {
   "name": "pack-rails",
   "displayName": "Ruby and Rails Extension Pack",
-  "description": "Basic extension which are used for ruby and rails development",
+  "description": "Carefully selected extensions and little helper that I use to develop Ruby and Ruby on Rails applications.",
   "version": "1.5.1",
   "publisher": "endverbraucher",
   "engines": {

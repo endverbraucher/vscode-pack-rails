@@ -2,7 +2,7 @@
 
 <div align="center"><img src="hero.png" width=40%></div>
 
-23 carefully selected extensions and little helper that I use to develop Ruby and Ruby on Rails applications.
+Carefully selected extensions and little helper that I use to develop Ruby and Ruby on Rails applications.
 
 
 ## Highlights
