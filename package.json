@@ -10,8 +10,13 @@
   "categories": [
     "Extension Packs"
   ],
+  "galleryBanner": {
+    "color": "#ef5a6b",
+    "theme": "light"
+  },
   "icon": "icon.png",
   "repository": {
+    "type": "git",
     "url": "https://github.com/endverbraucher/vscode-pack-rails.git"
   },
   "extensionPack": [
