@@ -36,7 +36,8 @@ Carefully selected extensions and little helper that I use to develop Ruby and R
 ### Ruby
 - [ruby](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp)
 - [ruby-symbols](https://marketplace.visualstudio.com/items?itemName=miguel-savignano.ruby-symbols)
-- [vscode-gem-lens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-gem-lens)
+- [gemfile-lock-highlight](https://marketplace.visualstudio.com/items?itemName=sevenc-nanashi.gemfile-lock-highlight)
+- replaces gemlens: [ninoseki.vscode-mogami](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-mogami)
 - [ruby-around-the-block](https://marketplace.visualstudio.com/items?itemName=elliotlarson.ruby-around-the-block)
 
 ### Rails
@@ -50,7 +51,6 @@ Carefully selected extensions and little helper that I use to develop Ruby and R
 - [erb](https://marketplace.visualstudio.com/items?itemName=craigmaslowski.erb)
 - [erb-vscode-snippets](https://marketplace.visualstudio.com/items?itemName=ZneuRay.erb-vscode-snippets)
 - [rails-go-to-spec](https://marketplace.visualstudio.com/items?itemName=sporto.rails-go-to-spec)
--
 
 ### Haml
 - [haml](https://marketplace.visualstudio.com/items?itemName=karunamurti.haml)

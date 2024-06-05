@@ -4,6 +4,14 @@ All notable changes to the "pack-common" extension pack will be documented in th
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this
 file.
 
+## [1.8.0] - 2024-06-05
+- removes deprecated gem lens extension
+- add ninoseki.vscode-mogami as replacement of gem lens
+- add sevenc-nanashi.gemfile-lock-highlight for a highlighted `gemfile.lock`
+
+## [1.7.0] - 2023-11-03
+- adds tavo.rails-schema
+
 ## [1.6.0] - 2023-09-20
 - replace deprecated and crashing ruby language server with the shopify one: https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp
 
