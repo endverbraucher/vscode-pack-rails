@@ -2,7 +2,7 @@
   "name": "pack-rails",
   "displayName": "Ruby and Rails Extension Pack",
   "description": "Carefully selected extensions and little helper that I use to develop Ruby and Ruby on Rails applications.",
-  "version": "1.6.0",
+  "version": "1.8.0",
   "publisher": "endverbraucher",
   "engines": {
     "vscode": "^1.26.0"
