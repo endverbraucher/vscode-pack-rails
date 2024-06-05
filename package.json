@@ -34,7 +34,6 @@
     "sporto.rails-go-to-spec",
     "aki77.rails-routes",
     "ldrner.rspec-snippets-vscode",
-    "ninoseki.vscode-gem-lens",
     "mikestead.dotenv",
     "pascalreitermann93.vscode-yaml-sort",
     "jemmyw.rails-fast-nav",
@@ -43,6 +42,7 @@
     "aki77.rails-partial",
     "aki77.rails-view-component",
     "aki77.quick-open-rails",
-    "elliotlarson.ruby-around-the-block"
+    "elliotlarson.ruby-around-the-block",
+    "tavo.rails-schema"
   ]
 }

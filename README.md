@@ -16,9 +16,6 @@ Carefully selected extensions and little helper that I use to develop Ruby and R
 #### [Quick Open Rails](https://marketplace.visualstudio.com/items?itemName=aki77.quick-open-rails) — helps you to search for you rails stuff. You need to configure a shortcut!
 <div align="center"><img src="screenshots/quick_open_rails.gif" width="75%"></div>
 
-#### [Gem Lens](https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-gem-lens) — See additional informations for the gems in your Gemfile.
-<div align="center"><img src="screenshots/gemlens.png" width="75%"></div>
-
 #### [Auto Add Brackets](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets) — Interpolate Strings with ease!
 <div align="center"><img src="screenshots/auto_add_brackets.gif" width="75%"></div>
 
@@ -53,6 +50,7 @@ Carefully selected extensions and little helper that I use to develop Ruby and R
 - [erb](https://marketplace.visualstudio.com/items?itemName=craigmaslowski.erb)
 - [erb-vscode-snippets](https://marketplace.visualstudio.com/items?itemName=ZneuRay.erb-vscode-snippets)
 - [rails-go-to-spec](https://marketplace.visualstudio.com/items?itemName=sporto.rails-go-to-spec)
+-
 
 ### Haml
 - [haml](https://marketplace.visualstudio.com/items?itemName=karunamurti.haml)
